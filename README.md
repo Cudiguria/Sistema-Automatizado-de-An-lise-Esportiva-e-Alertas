@@ -1,1 +1,1 @@
-# Sistema Automatizado de Análise Esportiva e Alertas
+# Desenvolvimento de sistema automatizado em Python para coleta e análise de dados esportivos, execução periódica de processamento e envio de análises e alertas via Telegram. Projeto desenvolvido, versionado e mantido no GitHub.
